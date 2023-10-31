@@ -1,5 +1,6 @@
 # webMidtermRepo
 CSC-336 Midterm/Creative Project
+
 Your project must include at least two files: index.html, and index.css
 
 index.css must be linked into index.html to style the page
