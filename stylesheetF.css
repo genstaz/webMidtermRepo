@@ -13,6 +13,7 @@
     color: #820036;
     position: relative;
     margin: 45px;
+    font-size: larger;
 }
 
 #faqs{
@@ -20,6 +21,7 @@
     background-image: url(imagesF/Beautiful-Pink-Gradient-Ombre-Background-Graphics-4342889-1-312x208.png);
     background-size: 125% 125%;
     padding-bottom: 50px;
+    font-size: larger;
 }
 
 #history{
@@ -39,9 +41,14 @@
 ul {
     list-style-type:disc;
 }
+li{
+    padding-bottom: 10px;
+
+}
 
 .noBullets{
     list-style: none;
+    padding-bottom: 10px;
 }
 
 h1{
@@ -146,13 +153,15 @@ font-size: 30pt;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width:560px; 
+    height:315px;
     width: 50%;
 
 }
 
 #planeImg1{
     position: absolute;
-    top: 75px;
+    top: 195px;
     left: 775px;
     border-radius: 35%;
     height: 340px;
@@ -162,8 +171,8 @@ font-size: 30pt;
 
 #planeImg2{
     position: absolute;
-    top: 935px;
-    left: 745px;
+    top: 1485px;
+    left: 785px;
     border-radius: 35%;
     height: 240px;
     width: 450px;
@@ -175,11 +184,15 @@ font-size: 30pt;
 #planeImg3{
     position: absolute;
     top: 45px;
-    left: 1015px;
+    left: 1065px;
     border-radius: 50%;
     height: 120px;
     width: 120px;
 
+}
+
+.miniTab{
+    margin-left: 2em;
 }
 
 #faqTitle{
