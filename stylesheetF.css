@@ -12,7 +12,6 @@ footer {
   padding: 10px;
   left: 0;
   bottom: 0;
-  width: 100%;
 }
 
 #scouts{
@@ -70,6 +69,7 @@ li{
 
 h1{
     text-align: center;
+    font-size: 45pt;
 }
 
 .centeredF{
@@ -155,7 +155,7 @@ font-size: 30pt;
     margin-left: 45px;
     margin-right: 45px;
     position: absolute;
-    top: 119px;
+    top: 115px;
     left: 535px;
 }
 
@@ -178,7 +178,7 @@ font-size: 30pt;
 
 #planeImg1{
     position: absolute;
-    top: 195px;
+    top: 225px;
     left: 775px;
     border-radius: 35%;
     height: 340px;
@@ -188,7 +188,7 @@ font-size: 30pt;
 
 #planeImg2{
     position: absolute;
-    top: 1485px;
+    top: 1525px;
     left: 785px;
     border-radius: 35%;
     height: 240px;
@@ -198,10 +198,22 @@ font-size: 30pt;
 
 }
 
+
 #planeImg3{
     position: absolute;
-    top: 45px;
-    left: 1065px;
+    top: 85px;
+    left: 1255px;
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+
+}
+
+
+#planeImg3pt2{
+    position: absolute;
+    top: 85px;
+    left: 85px;
     border-radius: 50%;
     height: 120px;
     width: 120px;
