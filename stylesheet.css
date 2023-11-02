@@ -28,7 +28,7 @@ p {
   justify-content: space-between;
   background: linear-gradient(to right,white, #f58ab8, #dc4989, #dc4989, #dc4989);
   border-radius: 25px;
-  width: 50%;
+  width: 90%;
   margin: auto;
   margin-top: 20px;
   padding: 20px;
@@ -86,7 +86,7 @@ footer {
 
 .airplane-image {
   position: absolute;
-  top: 100px;
+  top: 200px;
   right: 60px;
   width: 200px;
   height: auto;
