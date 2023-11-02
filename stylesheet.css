@@ -28,6 +28,7 @@ p {
   justify-content: space-between;
   background: linear-gradient(to right,white, #f58ab8, #dc4989, #dc4989, #dc4989);
   border-radius: 25px;
+  width: 70%;
   width: 90%;
   margin: auto;
   margin-top: 20px;
