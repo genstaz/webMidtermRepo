@@ -220,8 +220,8 @@ font-size: 30pt;
 
 #planeImg1{
     position: absolute;
-    top: 225px;
-    left: 775px;
+    top: 425px;
+    left: 705px;
     border-radius: 35%;
     height: 340px;
     width: 650px;
@@ -230,8 +230,8 @@ font-size: 30pt;
 
 #planeImg2{
     position: absolute;
-    top: 1525px;
-    left: 785px;
+    top: 1825px;
+    left: 685px;
     border-radius: 35%;
     height: 240px;
     width: 450px;
@@ -271,7 +271,6 @@ font-size: 30pt;
     color: #820036;
     padding-bottom: 30px;;
     text-align: center;
-    margin-left: 200px;
 }
 
 .q{
